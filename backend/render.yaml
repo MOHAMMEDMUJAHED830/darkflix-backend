@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: darkflix-backend
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
+    plan: free
+# git remote add origin https://github.com/MOHAMMEDMUJAHED830/DarkFlix-.git
+
+
