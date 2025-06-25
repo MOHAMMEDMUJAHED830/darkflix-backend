@@ -5,6 +5,6 @@ services:
     buildCommand: ""
     startCommand: python app.py
     plan: free
-# git remote add origin https://github.com/MOHAMMEDMUJAHED830/DarkFlix-.git
+# git remote add origin https://github.com/MOHAMMEDMUJAHED830/darkflix-backend.git
 
 
